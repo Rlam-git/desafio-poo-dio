@@ -1,3 +1,4 @@
+import br.com.dio.desafio.dominio.Conteudo;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
@@ -7,7 +8,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    Curso curso1 = new Curso("curso java","descrição curso java",8);
+    Conteudo curso1 = new Curso("curso java","descrição curso java",8);
     Curso curso2 = new Curso("curso javascript","descrição curso javascript",8);
     System.out.println(curso1);
     System.out.println(curso2);
