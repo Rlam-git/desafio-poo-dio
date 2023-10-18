@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="728b4c7f-49ee-4f38-9a88-16d9dee306da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/BootCamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697639031046</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feat:create class Conteudo.java">
+      <created>1697640021910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697640021910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refeat:atualizado a classe curso e mentoria para extender a classe conteudo.">
+      <created>1697640066179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697640066179</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Feat:Mentoria, Curso e Main class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat:Mentoria, Curso e Main class." />
+    <MESSAGE value="Feat:create class Conteudo.java" />
+    <MESSAGE value="Refeat:atualizado a classe curso e mentoria para extender a classe conteudo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refeat:atualizado a classe curso e mentoria para extender a classe conteudo." />
   </component>
 </project>
